@@ -1,0 +1,6 @@
+Savings,1000
+Eating Out,200
+Retail,500
+Bills,300
+Coffee,100
+Transport,0

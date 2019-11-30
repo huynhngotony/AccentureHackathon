@@ -1,0 +1,100 @@
+07/01/2019,$22.58,Shopping,Myer
+15/01/2019,$24.46,Entertainment,Hoyts
+20/01/2019,$24.71,Eating Out,Deliveroo
+22/01/2019,$30.19,Shopping,Ebay
+25/01/2019,$14.81,Groceries,Woolworths
+27/01/2019,$47.92,Shopping,Nike
+28/01/2019,$20.16,Entertainment,Spotify
+03/02/2019,$28.95,Eating Out,UberEats
+09/02/2019,$48.56,Education,EdX
+10/02/2019,$49.79,Eating Out,UberEats
+10/02/2019,$19.63,Travel,Myki
+13/02/2019,$38.30,Transport,Myki
+15/02/2019,$32.18,Entertainment,Hoyts
+16/02/2019,$29.22,Entertainment,Netflix
+17/02/2019,$34.07,Transport,Uber
+17/02/2019,$1.13,Entertainment,Netflix
+21/02/2019,$39.18,Health,Physiotherapy
+26/02/2019,$23.48,Travel,Myki
+27/02/2019,$5.97,Transport,Myki
+01/03/2019,$3.80,Groceries,Coles
+04/03/2019,$39.20,Shopping,Uniqlo
+09/03/2019,$23.12,Shopping,Nike
+10/03/2019,$5.93,Entertainment,Spotify
+14/03/2019,$1.82,Travel,Myki
+15/03/2019,$21.09,Health,Anytime Fitness
+26/03/2019,$2.07,Eating Out,McDonalds
+06/04/2019,$44.86,Groceries,Coles
+10/04/2019,$6.56,Health,Physiotherapy
+12/04/2019,$34.60,Education,Coursera
+13/04/2019,$27.79,Transport,Uber
+15/04/2019,$12.73,Entertainment,Hoyts
+26/04/2019,$2.24,Groceries,Coles
+01/05/2019,$44.02,Travel,Uber
+08/05/2019,$0.40,Entertainment,Spotify
+13/05/2019,$43.31,Health,Anytime Fitness
+14/05/2019,$11.23,Education,Udemy
+16/05/2019,$8.29,Eating Out,McDonalds
+17/05/2019,$42.53,Transport,Didi
+28/05/2019,$0.98,Groceries,Woolworths
+28/05/2019,$47.70,Eating Out,KFC
+2/06/2019,$41.71,Health,Physiotherapy
+9/06/2019,$44.16,Shopping,Myer
+11/06/2019,$35.13,Health,Physiotherapy
+14/06/2019,$19.60,Groceries,Woolworths
+16/06/2019,$7.73,Eating Out,HJ
+01/07/2019,$14.30,Eating Out,McDonalds
+04/07/2019,$31.15,Travel,Myki
+05/07/2019,$25.39,Health,Anytime Fitness
+07/07/2019,$40.67,Education,Coursera
+07/07/2019,$21.18,Entertainment,Netflix
+17/07/2019,$12.90,Entertainment,Netflix
+18/07/2019,$44.90,Shopping,Uniqlo
+24/07/2019,$18.48,Education,Udemy
+26/07/2019,$2.55,Travel,Myki
+01/08/2019,$46.76,Shopping,Daiso
+02/08/2019,$24.13,Shopping,Uniqlo
+03/08/2019,$42.14,Entertainment,Spotify
+10/08/2019,$1.96,Transport,Myki
+13/08/2019,$23.34,Health,Doctor
+14/08/2019,$30.69,Eating Out,Deliveroo
+16/08/2019,$2.29,Health,Physiotherapy
+28/08/2019,$45.53,Health,Anytime Fitness
+01/09/2019,$44.00,Entertainment,Spotify
+04/09/2019,$29.88,Eating Out,Deliveroo
+12/09/2019,$39.66,Transport,Myki
+14/09/2019,$16.16,Groceries,Coles
+17/09/2019,$35.86,Education,EdX
+17/09/2019,$32.13,Health,Anytime Fitness
+18/09/2019,$33.22,Health,Anytime Fitness
+18/09/2019,$48.92,Eating Out,Deliveroo
+24/09/2019,$43.01,Transport,Myki
+24/09/2019,$23.45,Transport,Didi
+8/10/2019,$12.32,Shopping,Uniqlo
+11/10/2019,$23.20,Groceries,Coles
+17/10/2019,$20.94,Travel,Uber
+23/10/2019,$18.50,Groceries,Aldi
+25/10/2019,$20.44,Education,Udemy
+28/10/2019,$26.62,Health,Anytime Fitness
+01/11/2019,$29.75,Entertainment,Hoyts
+04/11/2019,$34.58,Shopping,Ebay
+06/11/2019,$35.73,Transport,Uber
+08/11/2019,$3.34,Entertainment,Hoyts
+09/11/2019,$8.47,Groceries,Aldi
+13/11/2019,$22.20,Eating Out,KFC
+14/11/2019,$2.54,Shopping,Ebay
+17/11/2019,$47.01,Education,Coursera
+21/11/2019,$19.25,Groceries,Coles
+23/11/2019,$45.36,Transport,Uber
+28/11/2019,$33.83,Health,Doctor
+05/12/2019,$38.82,Education,EdX
+11/12/2019,$6.48,Eating Out,HJ
+12/12/2019,$18.53,Eating Out,KFC
+15/12/2019,$42.14,Transport,Didi
+17/12/2019,$9.17,Education,Udemy
+18/12/2019,$13.95,Groceries,Coles
+21/12/2019,$12.30,Entertainment,Hoyts
+22/12/2019,$9.56,Entertainment,Netflix
+24/12/2019,$37.03,Entertainment,Spotify
+25/12/2019,$34.82,Transport,Uber
+26/12/2019,$11.20,Groceries,Woolworths

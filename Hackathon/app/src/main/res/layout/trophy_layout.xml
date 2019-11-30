@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+
+    <TextView
+        android:id="@+id/titleView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="40dp"
+        android:gravity="center"
+        android:text="Trophy"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TableLayout
+        android:id="@+id/tablelayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/titleView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp">
+
+        <TableRow
+            android:layout_alignStart="@+id/tablelayout"
+            android:layout_alignTop="@+id/tablelayout">
+
+            <ImageView
+                android:id="@+id/badgeIcon1"
+                android:layout_width="100sp"
+                android:layout_height="100sp"
+                android:onClick="EducationClick"
+                android:src="@mipmap/ic_launcher_round" />
+
+            <ImageView
+                android:id="@+id/badgeIcon2"
+                android:layout_width="100sp"
+                android:layout_height="100sp"
+                android:onClick="coffree"
+                android:src="@mipmap/ic_launcher_round" />
+
+            <ImageView
+                android:id="@+id/badgeIcon3"
+                android:layout_width="100sp"
+                android:layout_height="100sp"
+                android:src="@mipmap/ic_launcher_round"
+                android:onClick="fashion"/>
+        </TableRow>
+
+        <TableRow>
+
+            <ImageView
+                android:id="@+id/badgeIcon4"
+                android:layout_width="100sp"
+                android:layout_height="100sp"
+                android:src="@mipmap/ic_launcher_round" />
+
+            <ImageView
+                android:id="@+id/badgeIcon5"
+                android:layout_width="100sp"
+                android:layout_height="100sp"
+                android:onClick="gymjunkie"
+                android:src="@mipmap/ic_launcher_round" />
+
+            <ImageView
+                android:id="@+id/badgeIcon6"
+                android:layout_width="100sp"
+                android:layout_height="100sp"
+                android:onClick="pigClick"
+                android:src="@mipmap/ic_launcher_round" />
+        </TableRow>
+
+        <TableRow>
+
+            <ImageView
+                android:id="@+id/badgeIcon7"
+                android:layout_width="100sp"
+                android:layout_height="100sp"
+                android:src="@mipmap/ic_launcher_round" />
+
+            <ImageView
+                android:id="@+id/badgeIcon8"
+                android:layout_width="100sp"
+                android:layout_height="100sp"
+                android:src="@mipmap/ic_launcher_round" />
+
+            <ImageView
+                android:id="@+id/badgeIcon9"
+                android:layout_width="100sp"
+                android:layout_height="100sp"
+                android:src="@mipmap/ic_launcher_round" />
+        </TableRow>
+
+
+    </TableLayout>
+
+    <Button
+        android:id="@+id/updateBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tablelayout"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="147dp"
+
+        android:layout_marginEnd="149dp"
+        android:layout_marginBottom="11dp"
+
+        android:onClick="updatebutton"
+        android:text="Update" />
+
+</RelativeLayout>

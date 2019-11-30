@@ -2,6 +2,7 @@ package com.example.hackathon;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.media.Image;
 import android.os.Bundle;
 import android.view.View;
@@ -58,6 +59,14 @@ public class MainActivity extends AppCompatActivity {
         ListView listview = (ListView) findViewById(R.id.list);
         CustomAdapter customadapter = new CustomAdapter();
         listview.setAdapter(customadapter);
+
+        Button trophybutton = (Button) findViewById(R.id.achievementsButton);
+        trophybutton.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v){
+                trophy();
+            }
+        });
     }
 
     public static Calendar getDatePart(Date date){
@@ -224,6 +233,11 @@ public class MainActivity extends AppCompatActivity {
         ListView listview = (ListView) findViewById(R.id.list);
         CustomAdapter customadapter = new CustomAdapter();
         listview.setAdapter(customadapter);
+    }
+
+    public void trophy(){
+        Intent intent = new Intent(this, trophy_activity.class);
+        startActivity(intent);
     }
 
     private String readFile() {
